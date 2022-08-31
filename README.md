@@ -1,6 +1,4 @@
-# Basic_API_Rest_Node_MongoDB
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=71460-4-F&repo=Basic_API_Rest_Node_MongoDB&countColor=red)
+# simple-user-api
 
 ## Execution process and dependencies
 
